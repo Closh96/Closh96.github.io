@@ -435,9 +435,6 @@ function Hero() {
                 <footer className="site-footer">
                     <div className="footer-content">
                         <div className="footer-links">
-                            <a href="mailto:closh1996@gmail.com" className="footer-link">
-                                Email
-                            </a>
                             <a href="https://www.linkedin.com/in/nicola-piras-65a010109/" className="footer-link" target="_blank" rel="noopener noreferrer">
                                 LinkedIn
                             </a>
