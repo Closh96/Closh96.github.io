@@ -12,10 +12,10 @@
     "technologies": ["Adobe Illustrator", "Adobe Photoshop"]
   },
   {
-    "id": "oliodante",
-    "title": "Olio Dante unofficial rebrand",
-    "description": "Un progetto di redesign digitale dello storico logo dell'Olio Dante.",
-    "technologies": ["Adobe Illustrator", "Adobe Photoshop"]
+    "id": "WeatherReport",
+    "title": "Weather App",
+    "description": "Progetto nato per pura dimostrazione di competenze. Sviluppato con React-Vite.",
+    "technologies": ["Figma", "React-Vite"]
   },
   {
     "id": "mrcfl",

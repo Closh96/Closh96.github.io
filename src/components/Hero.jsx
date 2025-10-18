@@ -8,13 +8,13 @@ import projects from '../data/projects.json';
 import ddImg from '../assets/dd.jpg';
 import davideImg from '../assets/davide.jpg';
 import mrcflImg from '../assets/mrcfl.jpg';
-import oliodanteImg from '../assets/oliodante.jpg';
+import WeatherReportImg from '../assets/WeatherReport.png';
 
 const imageMap = {
     dd: ddImg,
     davide: davideImg,
     mrcfl: mrcflImg,
-    oliodante: oliodanteImg,
+    WeatherReport: WeatherReportImg,
 };
 
 // ============================================================================
