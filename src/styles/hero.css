@@ -406,7 +406,7 @@
     overflow: hidden; /* necessario per ::before */
 }
 
-/* Gradient animato come nel link */
+/* Gradient animato */
 .project-card-scroll::before {
     content: '';
     position: absolute;
@@ -642,4 +642,5 @@
     .hero-right {
         padding-bottom: 100px;
     }
+
 }
