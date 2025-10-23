@@ -12,7 +12,7 @@
     "technologies": ["Adobe Illustrator", "Adobe Photoshop"]
   },
   {
-    "id": "WeatherReport",
+    "id": "weatherreport",
     "title": "Weather App",
     "description": "Progetto nato per pura dimostrazione di competenze. Sviluppato con React-Vite.",
     "technologies": ["Figma", "React-Vite"]
@@ -24,3 +24,4 @@
     "technologies": ["Adobe Illustrator", "Adobe Photoshop"]
   }
 ]
+
