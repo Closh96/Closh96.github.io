@@ -8,13 +8,13 @@ import projects from '../data/projects.json';
 import ddImg from '../assets/dd.jpg';
 import davideImg from '../assets/davide.jpg';
 import mrcflImg from '../assets/mrcfl.jpg';
-import WeatherReportImg from '../assets/WeatherReport.png';
+import weatherreportImg from '../assets/WeatherReport.png';
 
 const imageMap = {
     dd: ddImg,
     davide: davideImg,
     mrcfl: mrcflImg,
-    weatherreport: WeatherReportImg,
+    weatherreport: weatherreportImg,
 };
 
 // ============================================================================
@@ -459,3 +459,4 @@ function Hero() {
 
 
 export default Hero;
+
