@@ -14,7 +14,7 @@ const imageMap = {
     dd: ddImg,
     davide: davideImg,
     mrcfl: mrcflImg,
-    WeatherReport: WeatherReportImg,
+    weatherreport: WeatherReportImg,
 };
 
 // ============================================================================
@@ -456,5 +456,6 @@ function Hero() {
         </section>
     );
 }
+
 
 export default Hero;
